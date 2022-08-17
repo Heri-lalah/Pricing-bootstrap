@@ -1,0 +1,19 @@
+html,body{
+    max-width: 100%;
+}
+.header ul li{
+    font-size: 14px;  
+}
+
+footer .fa-bootstrap{
+    color: blueviolet;
+}
+footer .footer_column a{
+    font-size: 14px;
+}
+footer .footer_column a .fa-copyright{
+    font-size: 10px;
+}
+footer .footer_column a span{
+    font-size: 11px;
+}
